@@ -1,6 +1,6 @@
 pkgbase = antigravity
 	pkgdesc = Google Antigravity 2.0 multi-agent orchestration platform
-	pkgver = 2.34.0
+	pkgver = 0
 	pkgrel = 1
 	url = https://antigravity.google/product/antigravity-2
 	arch = aarch64
